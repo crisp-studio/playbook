@@ -1,6 +1,6 @@
 # Purpose
 
-## What is a Venture?
+## What Is a Venture?
 
 The venture is _a risky or daring journey or undertaking_. For us, venturing means developing a digital product that is useful for others and generates monthly recurring revenue. Most of the time, this is something we feel is missing in the market and that we are eager to bring to people.
 
