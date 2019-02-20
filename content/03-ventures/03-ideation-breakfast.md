@@ -22,14 +22,14 @@ In order to decide which product idea will make it into the next cycle, it is be
 
 The process looks like this:
 
-1. Draw an Impact / Effort Scale
+1. Draw an Impact / Effort Matrix
 2. Write the name of one product idea on a post-it
 3. Move your hand over the middle of the impact scale and ask, "Is the impact higher or lower?"
 4. The moderator should then move the note up or down until the others stop saying higher or lower
-5. Same procedure with the Effort scale
+5. Same procedure with the effort scale
 6. Repeat the process for all other ideas
 7. The moderator should mark all ideas in the top left corner with a contrast dot
 
 ## Prioritizing Ideas
 
-If all ideas are hanging on the wall and have been discussed can be voted with sticky dots. The ideas are then sorted on the wall according to most votes.
+When all ideas are hanging on the wall and have been discussed, we vote for them with sticky dots and sort them on the wall by the number of votes. If two appear to have the same number of votes, we have to decide to do another vote or declare a winning product idea just by discussion.
