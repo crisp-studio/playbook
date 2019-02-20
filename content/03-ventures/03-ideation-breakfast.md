@@ -20,7 +20,7 @@ After all have read through the pitches, the author of the pitch has to answer o
 
 In order to decide which product idea will make it into the next cycle, it is best to arrange the ideas according to impact and effort. The impact could include both economic potential and the impact of the problem.
 
-What the process looks like this:
+The process looks like this:
 
 1. Draw an Impact / Effort Scale
 2. Write the name of one product idea on a post-it
