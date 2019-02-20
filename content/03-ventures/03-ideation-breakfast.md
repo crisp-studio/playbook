@@ -30,6 +30,6 @@ The process looks like this:
 6. Repeat the process for all other ideas
 7. The moderator should mark all ideas in the top left corner with a contrast dot
 
-## Prioritizing ideas
+## Prioritizing Ideas
 
 If all ideas are hanging on the wall and have been discussed can be voted with sticky dots. The ideas are then sorted on the wall according to most votes.
