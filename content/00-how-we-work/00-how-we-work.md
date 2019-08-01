@@ -22,6 +22,6 @@ If you are working remote or from home, make sure to check-in to Slack and let t
 
 ## Absence
 
-When you are working full or part-time you are expected to **be present during your agreed working schedule.** This means either to be in the office or available trough Slack. When something comes in your way or you are late, write a short message into our #out-of-office channel.
+When you are working full or part-time you are expected to **be present during your agreed working schedule.** This means either to be in the office or available trough Slack. When something comes in your way or you are late, write a short message into our #organisation.
 
 If you have an appointment, that can't be done before or after work, make sure to inform the team of your absence. It is also recommended – if possible – to put these appointments at the start or end of the day. This doesn't break the day in pieces and creates more room for meaningful work.
