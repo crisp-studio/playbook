@@ -1,9 +1,9 @@
 # About
 
-Crisp Studio is a **design sprint and development studio** for digital products. We help companies to build digital products faster by answering critical business questions through design, prototyping, and testing ideas with customers.
+Welcome to the Crisp Studio playbook! The playbook is a continuous effort to write down the principles and processes of this company. Things that are written down here become tangible and can, therefore, be adapted, discussed and improved. It is a **living document that evolves with the company** and should reflect our thoughts at any time.
 
-With promising user feedback we go one step further and develop a minimal viable product in a very short timeframe. We apply the same process ourselves by transforming internal and external ideas into SaaS \(Software as a service\) solutions and placing them on the market.
+The Playbook acts as a compass and information resource for employees, but we invited everyone to take a read. This is the place for clients to get to know us. This is the place for other agencies/studios to find inspiration or message us new ideas.
 
 <hint type="info">
-We believe in the idea of treating your company as a product. Therefore we want to write down as much as possible about the inner workings of Crisp Studio. This version is a WIP. Over time we will fill in further information.
+We believe in the idea of treating your company as a product. In the same notion, this playbook can be understood as the documentation for working in and with Crisp Studio. Our ambition is to update this every two months. 
 </hint>
